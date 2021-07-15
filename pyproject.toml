@@ -6,6 +6,7 @@ authors = ["langerb <<>>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+bs4 = "^0.0.1"
 
 [tool.poetry.dev-dependencies]
 
